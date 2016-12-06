@@ -1,2 +1,6 @@
-body {
-  background-color: red}
+article {background-color: yellow}
+
+header {display: block;}
+b1 {font-style: bold;font-size: 50px}
+section {background-color: orange}
+aside{background-color: red}
