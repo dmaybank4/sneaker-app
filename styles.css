@@ -4,4 +4,4 @@ header {display: block;}
 
 section {background-color: orange;text-overflow: clip;margin-right: 350px;f}
 
-aside{background-color: red;margin-right: 350px;display: inline-block;}
+aside{background-color: red;margin-right: 350px;padding: 0}
